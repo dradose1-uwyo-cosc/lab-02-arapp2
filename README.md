@@ -1,12 +1,8 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# Alex Rapp
+## lab 2
+## [Submission date: 09-16-2024]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* in lecture notes
+* help from TA Ryan Zafft
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* inexplicable syntax error, python incorrectly downloaded
